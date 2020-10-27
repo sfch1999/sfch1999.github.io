@@ -41,7 +41,7 @@ linkedin_username: soroush-farghadani
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: assets/papyon.jpg
+about_profile_image: assets/papyon.jpeg
 about_content: | # this will include new lines to allow paragraphs
   I am currently studying the final year of my bachelor’s degree in Computer Engineering at Sharif University of Technology, Iran.
   My research interests include **Deep Learning** in particular, and **Machine Learning** in general, with applications in **Computer Vision**, **Graph Learning** and **Economics**. 
