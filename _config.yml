@@ -1,0 +1,67 @@
+# Site
+# repository: sproogen/resume-theme
+# favicon: images/favicon.ico
+
+# Personal info
+name: Shayan Shekarforoush
+title:
+email: shekshaa.75@gmail.com
+# website: shekshaa.github.io
+
+# Social links
+# twitter_username: facespics
+researchgate_username: Shayan_Shekarforoush
+github_username:  shekshaa
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+# instagram_username: chillwildlife
+googlescholar_username: ABanXIYAAAAJ
+linkedin_username: shayan-shekarforoush-597508136
+# pinterest_username: jekyll
+# youtube_username: globalmtb
+# googleplus_username: +jekyll
+
+# About Section
+# about_title: About Me
+about_profile_image: images/pf.jpg
+about_content: | # this will include new lines to allow paragraphs
+  I am currently studying the final year of my bachelor’s degree in Computer Engineering at Sharif University of Technology, Iran.
+  My research interests include **Deep Learning** in particular, and **Machine Learning** in general, with applications in **Computer Vision** and **Graph Learning**. 
+  I am intended to better understand these methods in a principled manner by investigating 
+  both their underlying mathematics and their practical implications in real life. 
+  Though the recent proposed techniques have demonstrated remarkable performance, 
+  major challenges in terms of understanding their underlying mathematical foundations remain unresolved. 
+  My research goal is to channel such better **theoretical and functional** understanding of 
+  these new methods towards better **practical solutions** for real life problems.
+  
+# Projects Section
+projects_title: Publications
+
+# Experience Section
+# experience_title: Experience
+
+# Education Section
+# educaton_title: Education
+
+# More Section
+# more_title: A Little More About Me
+more_content: | # this will include new lines to allow paragraphs
+  Alongside my interests in Science and Technology, some of my other hobbies are:
+   - Rock Music
+   - Ultimate Frisbee
+   - Basketball
+   - Playing Tennis
+
+# Footer
+footer_show_references: true
+
+# Build settings
+remote_theme: shekshaa/shekshaa.github.io
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag

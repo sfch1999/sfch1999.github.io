@@ -1,0 +1,70 @@
+- name: scGCN
+  image: images/eccb2019.png
+  description: |
+    ## **Cell type identification in single-cell RNA sequencing based on gene interaction networks**
+    
+    ---
+    
+    Current single-cell classification methods take genes as independent features to assign cell types disregarding
+    their interactome which has been shown to be of great importance in cellular processes. Here, we introduce 
+    **single-cell Graph Convolutional Network (scGCN)** which takes gene-gene interactions into account by constructing
+    a co-expression network of a subset of genes and uses a graph deep learning approach to classify single-cells.
+    
+    <span style="color:#900"> Elyas Heidari, **Shayan Shekarforoush**, Laleh Haghverdi, and Wolfgang Huber </span>
+    
+    <span style="color:green"> Intelligent Systems for Molecular Biology / European Conference on Computational Biology (ISMB/ECCB 2019) </span>
+    
+- name: GCN with Personalized Attention
+  image: images/miccai2019.png
+  description: |
+    ## **Graph Convolution Based Attention Model for Personalized Disease Prediction**
+    
+    ---
+    
+    Often a varied order of importance for the multi-modal heterogeneous data is considered for personalized disease diagnosis decisions.
+    Towards this, we introduce a model which not only improves the disease prediction but also focuses on 
+    learning **patient-specific** order of importance for multi-modal data elements. 
+    In order to achieve this, we take advantage of **LSTM-based attention mechanism** and **graph convolutional networks (GCNs)**
+    to design our model. GCNs learn multi-modal but class-specific features from the entire population of patients, 
+    whereas the attention mechanism optimally fuses these multi-modal features into a final decision, separately for each patient.
+    
+    <span style="color:#900"> Anees Kazi, **Shayan Shekarforoush**, S.Arvind krishna, Hendrik Burwinkel, Gerome Vivar, Benedict Wiestler, Karsten Kortum,
+    Seyed-Ahmad Ahmadi, Shadi Albarqouni, and Nassir Navab </span>
+    
+    <span style="color:green"> Medical Image Computing and Computer Assisted Intervention (MICCAI 2019) </span>
+    
+- name: InceptionGCN
+  image: images/Inception_method.png
+  description: | # this will include new lines to allow paragraphs
+    ## **InceptionGCN: Receptive Field Aware Graph Convolutional Network for Disease Prediction**
+    
+    ---
+    
+    In this paper, we introduce a new spectral domain architecture for deep learning on graphs for disease prediction. 
+    The novelty lies in defining geometric **Inception Modules** which are capable of capturing intra and inter-graph structural heterogeneity during convolutions. 
+    We design filters with different kernel sizes to build our architecture.
+    
+    <span style="color:#900"> Anees Kazi, **Shayan Shekarforoush**, S.Arvind krishna, Hendrik Burwinkel, Gerome Vivar, Karsten Kortum,
+    Seyed-Ahmad Ahmadi, Shadi Albarqouni, and Nassir Navab </span>
+    
+    <span style="color:green"> Information Processing in Medical Imaging (IPMI 2019) </span>
+    [[PDF](https://arxiv.org/pdf/1903.04233.pdf)][[Code](https://github.com/shekshaa/InceptionGCN)]
+    
+- name: ParallelGCN
+  image: images/ISBI_method.png
+  description: |
+    ## **Self-Attention Equipped Graph Convolutions For Disease Prediction**
+    
+    ---
+    
+    Multi-modal data comprising imaging (MRI, fMRI, etc.) and non-imaging (demographics, etc.) data can be collected together and used for disease prediction. 
+    A model capable of leveraging the individuality of each multi-modal data is required for better disease prediction. 
+    We propose a graph convolution based deep model which takes into account the distinctiveness of each element of the multi-modal data. 
+    We incorporate a novel **Self-Attention Layer**, which weights every element of the demographic data 
+    by exploring its relation to the underlying disease.
+    
+    <span style="color:#900"> Anees Kazi, S.Arvind krishna, **Shayan Shekarforoush**, Karsten Kortum,
+    Shadi Albarqouni, and Nassir Navab </span> 
+    
+    <span style="color:green"> IEEE International Symposium on Biomedical Imaging (ISBI 2019) </span>
+    [[PDF](https://arxiv.org/pdf/1812.09954.pdf)]
