@@ -1,16 +1,17 @@
-- name: scGCN
-  image: images/eccb2019.png
+- name: DGM
+  image: images/DGM.png
   description: |
-    ## **Cell type identification in single-cell RNA sequencing based on gene interaction networks**
+    ## **Explainable Latent-Graph Learning for Disease Prediction**
     
     ---
     
-    Current single-cell classification methods take genes as independent features to assign cell types disregarding
-    their interactome which has been shown to be of great importance in cellular processes. Here, we introduce 
-    **single-cell Graph Convolutional Network (scGCN)** which takes gene-gene interactions into account by constructing
-    a co-expression network of a subset of genes and uses a graph deep learning approach to classify single-cells.
+    Current Graph Convolutional Networks mainly depend on the given geometric structure where the graph adjacency matrix represents pair-wise node similarities. Until now, 
+    the similarity metrics have been defined manually,which is not feasible nor accurate for many datasets. Furthermore, The main shortcoming 
+    of GCNs is their interpretablity.
+    To this end, we proposed a novel, end-to-end trainable graph learning architecture for dynamic and localized graph pruning. Furthermore, 
+    this method generates an explanation for given features which can help us understand what is going on under the hood.
     
-    <span style="color:#900"> Elyas Heidari, **Shayan Shekarforoush**, Laleh Haghverdi, and Wolfgang Huber </span>
+    <span style="color:#900"> **Soroush Farghadani**, Anees Kazi, Seyed-Ahmad Ahmadi, and Nassir Navab</span>
     
     <span style="color:green"> Intelligent Systems for Molecular Biology / European Conference on Computational Biology (ISMB/ECCB 2019) </span>
     
