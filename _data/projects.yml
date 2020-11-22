@@ -1,8 +1,6 @@
 # Project template
-- layout: top-middle
-  name: DGM Explaining
-  quote: >
-    Short overview of the project (optional)
+- name: DGM Explaining
+  image: assets/DGM.png
   description: | # this will include new lines to allow paragraphs
     ## **Cell type identification in single-cell RNA sequencing based on gene interaction networks**
     
