@@ -1,6 +1,6 @@
 # Project template
 - name: DGM Explaining
-  image: assets/DGM.png
+  image: assets/papyon.jpeg
   description: | # this will include new lines to allow paragraphs
     ## **Cell type identification in single-cell RNA sequencing based on gene interaction networks**
     
