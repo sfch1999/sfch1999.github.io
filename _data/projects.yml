@@ -12,7 +12,7 @@
     a co-expression network of a subset of genes and uses a graph deep learning approach to classify single-cells.
   
 - name: GCN with Personalized Attention
-  image: assets/papyon.jpeg
+  image: images/miccai2019.png
   description: |
     ## **Graph Convolution Based Attention Model for Personalized Disease Prediction**
     
