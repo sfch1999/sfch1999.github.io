@@ -24,49 +24,14 @@
     
     Some of the evaluations of people with dementia are based on imaging, which is used to understand the severity of the disease and analyze changes over time.
     Among the Dementia biomarkers, ”Periventricular White Matter Changes(PVWM)” has been of the most importance.
-    Towards this, we introduce a model which can classify patients based on PVWM scale into four groups. 
+    Towards this, we introduce a model which can classify patients based on PVWM into four groups. 
     In order to achieve this, we take advantage of **Multiple Instance Learning** and **Self-Supervised Learning**. However, one of 
-    the main novelties of our model is the preproccessing stage which we've invented. This technique allows us to segment White Matter Lisions 
+    the main novelties of our model is the preproccessing stage which we've invented. This technique allows us to segment the White Matter Lisions 
     in order to achieve higher accuracy. 
-    The other advantage of our proposed model is that we used thick slice MRI dataset which is the main setting used to attain MRI scans in Imaging Centers.
+    The other advantage of our proposed method is that our model is based on thick slice MRI which is the main setting used to attain MRI scans in Imaging Centers.
     
     <span style="color:#900"> Anees Kazi, **Shayan Shekarforoush**, S.Arvind krishna, Hendrik Burwinkel, Gerome Vivar, Benedict Wiestler, Karsten Kortum,
     Seyed-Ahmad Ahmadi, Shadi Albarqouni, and Nassir Navab </span>
     
     <span style="color:green"> Medical Image Computing and Computer Assisted Intervention (MICCAI 2019) </span>
-    
-- name: InceptionGCN
-  image: images/Inception_method.png
-  description: | # this will include new lines to allow paragraphs
-    ## **InceptionGCN: Receptive Field Aware Graph Convolutional Network for Disease Prediction**
-    
-    ---
-    
-    In this paper, we introduce a new spectral domain architecture for deep learning on graphs for disease prediction. 
-    The novelty lies in defining geometric **Inception Modules** which are capable of capturing intra and inter-graph structural heterogeneity during convolutions. 
-    We design filters with different kernel sizes to build our architecture.
-    
-    <span style="color:#900"> Anees Kazi, **Shayan Shekarforoush**, S.Arvind krishna, Hendrik Burwinkel, Gerome Vivar, Karsten Kortum,
-    Seyed-Ahmad Ahmadi, Shadi Albarqouni, and Nassir Navab </span>
-    
-    <span style="color:green"> Information Processing in Medical Imaging (IPMI 2019) </span>
-    [[PDF](https://arxiv.org/pdf/1903.04233.pdf)][[Code](https://github.com/shekshaa/InceptionGCN)]
-    
-- name: ParallelGCN
-  image: images/ISBI_method.png
-  description: |
-    ## **Self-Attention Equipped Graph Convolutions For Disease Prediction**
-    
-    ---
-    
-    Multi-modal data comprising imaging (MRI, fMRI, etc.) and non-imaging (demographics, etc.) data can be collected together and used for disease prediction. 
-    A model capable of leveraging the individuality of each multi-modal data is required for better disease prediction. 
-    We propose a graph convolution based deep model which takes into account the distinctiveness of each element of the multi-modal data. 
-    We incorporate a novel **Self-Attention Layer**, which weights every element of the demographic data 
-    by exploring its relation to the underlying disease.
-    
-    <span style="color:#900"> Anees Kazi, S.Arvind krishna, **Shayan Shekarforoush**, Karsten Kortum,
-    Shadi Albarqouni, and Nassir Navab </span> 
-    
-    <span style="color:green"> IEEE International Symposium on Biomedical Imaging (ISBI 2019) </span>
-    [[PDF](https://arxiv.org/pdf/1812.09954.pdf)]
+
