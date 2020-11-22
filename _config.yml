@@ -25,13 +25,11 @@ linkedin_username: soroush-farghadani
 about_profile_image: images/papyon.jpeg
 about_content: | # this will include new lines to allow paragraphs
   I am currently studying the final year of my bachelor’s degree in Computer Engineering at Sharif University of Technology, Iran.
-  My research interests include **Deep Learning** in particular, and **Machine Learning** in general, with applications in **Computer Vision**, **Graph Learning**, and **Finance**. 
-  I am intended to better understand these methods in a principled manner by investigating 
+  In June 2019, I joined Data Science & Machine Learning Lab (DML) as a research assistant in Sharif University of Technology, where I have been conducting research on Computer Vision ever since. Moreover,
+  In 2020, I received a prestigious research award which gave me the opportunity to work with Prof. Navab, one of the most prestigious professors in Biomedical & Medical Informatics at the Chair for Computer Aided Medical Procedures (CAMP), Technical University of Munich (TUM), Germany.
+  My research interests include Computer Vision, Deep Learning in general, and Interpretable ML. I am also interested in interplay between ML and health.
+  my intention is to better understand these methods in a principled manner by investigating 
   their practical implications in real life. 
-  Although the recently proposed techniques have demonstrated remarkable performance, 
-  significant challenges in terms of Explaining their results remain unresolved. 
-  My research goal is to channel such better **theoretical and functional** understandings of 
-  these new methods towards better **practical solutions** for real life problems.
 
 # Projects Section
 projects_title: Projects
