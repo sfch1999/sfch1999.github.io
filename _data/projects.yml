@@ -10,4 +10,23 @@
     their interactome which has been shown to be of great importance in cellular processes. Here, we introduce 
     **single-cell Graph Convolutional Network (scGCN)** which takes gene-gene interactions into account by constructing
     a co-expression network of a subset of genes and uses a graph deep learning approach to classify single-cells.
+  
+- name: GCN with Personalized Attention
+  image: assets/papyon.jpeg
+  description: |
+    ## **Graph Convolution Based Attention Model for Personalized Disease Prediction**
     
+    ---
+    
+    Often a varied order of importance for the multi-modal heterogeneous data is considered for personalized disease diagnosis decisions.
+    Towards this, we introduce a model which not only improves the disease prediction but also focuses on 
+    learning **patient-specific** order of importance for multi-modal data elements. 
+    In order to achieve this, we take advantage of **LSTM-based attention mechanism** and **graph convolutional networks (GCNs)**
+    to design our model. GCNs learn multi-modal but class-specific features from the entire population of patients, 
+    whereas the attention mechanism optimally fuses these multi-modal features into a final decision, separately for each patient.
+    
+    <span style="color:#900"> Anees Kazi, **Shayan Shekarforoush**, S.Arvind krishna, Hendrik Burwinkel, Gerome Vivar, Benedict Wiestler, Karsten Kortum,
+    Seyed-Ahmad Ahmadi, Shadi Albarqouni, and Nassir Navab </span>
+    
+    <span style="color:green"> Medical Image Computing and Computer Assisted Intervention (MICCAI 2019) </span>
+  
