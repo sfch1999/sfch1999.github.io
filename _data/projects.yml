@@ -1,9 +1,15 @@
 # Project template
 - layout: top-middle
-  name: Project name
-  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  name: DGM Explaining
   quote: >
     Short overview of the project (optional)
   description: | # this will include new lines to allow paragraphs
-    Description about the work on/with the project
+    ## **Cell type identification in single-cell RNA sequencing based on gene interaction networks**
+    
+    ---
+    
+    Current single-cell classification methods take genes as independent features to assign cell types disregarding
+    their interactome which has been shown to be of great importance in cellular processes. Here, we introduce 
+    **single-cell Graph Convolutional Network (scGCN)** which takes gene-gene interactions into account by constructing
+    a co-expression network of a subset of genes and uses a graph deep learning approach to classify single-cells.
+    

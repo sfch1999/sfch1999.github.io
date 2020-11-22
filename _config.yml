@@ -44,12 +44,12 @@ linkedin_username: soroush-farghadani
 about_profile_image: assets/papyon.jpeg
 about_content: | # this will include new lines to allow paragraphs
   I am currently studying the final year of my bachelor’s degree in Computer Engineering at Sharif University of Technology, Iran.
-  My research interests include **Deep Learning** in particular, and **Machine Learning** in general, with applications in **Computer Vision**, **Graph Learning** and **Economics**. 
+  My research interests include **Deep Learning** in particular, and **Machine Learning** in general, with applications in **Computer Vision**, **Graph Learning**, and **Economics**. 
   I am intended to better understand these methods in a principled manner by investigating 
   their practical implications in real life. 
-  Although the recent proposed techniques have demonstrated remarkable performance, 
-  major challenges in terms of Explaining their results remain unresolved. 
-  My research goal is to channel such better **theoretical and functional** understanding of 
+  Although the recently proposed techniques have demonstrated remarkable performance, 
+  significant challenges in terms of Explaining their results remain unresolved. 
+  My research goal is to channel such better **theoretical and functional** understandings of 
   these new methods towards better **practical solutions** for real life problems.
 
 # Projects Section
