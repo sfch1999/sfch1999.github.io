@@ -1,9 +1,16 @@
-# Education Template
-- layout: left
-  name: Institution name
-  dates: Date Range (eg. 2016 - 2019)
-  qualification: Qualifications (eg. BA Performing Arts)
-  quote: >
-    Short institution or course description (optional)
+- name: Sharif Univeristy of Technology
+  dates: 2015 - Present
+  qualification: BSc Computer Engineering
   description: | # this will include new lines to allow paragraphs
-    Description of qualification
+    Studying Software Engineering at [Computer Engineering Department](http://ce.sharif.edu/).
+
+    **Related Courses:**
+    
+    Signal Processing, Probability and Statistics, Linear Algebra, Regression Analysis, Stochastic Processes, Artificial Intelligence, Introduction to Machine Learning, Differential Geometry, Information Theory (Graduate Course).
+    
+- name: Allameh Helli 1 Highschool
+  dates: 2011-2015
+  qualification: Diploma
+  description: |
+    I received my Diploma in Mathematics and Physics from this highschool 
+    affiliated with the National Organization for the Development of Exceptional Talents ([NODET](http://nodet.net/)).

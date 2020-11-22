@@ -1,78 +1,63 @@
 # Site
-repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
-# favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
+# repository: sproogen/resume-theme
+# favicon: images/favicon.ico
 
 # Personal info
-name: Soroush Farghadani
+name: Shayan Shekarforoush
 title:
-email: sor.fargh@gmail.com
-
-# Dark Mode (true/false/never)
-darkmode: true
+email: shekshaa.75@gmail.com
+# website: shekshaa.github.io
 
 # Social links
-#twitter_username: jekyllrb
-github_username:  sfch1999
-#stackoverflow_username: "00000001"
-#dribbble_username: jekyll
-##flickr_username: jekyll
-#instagram_username: jekyll
-linkedin_username: soroush-farghadani
-#xing_username: jekyll
-#pinterest_username: jekyll
-#youtube_username: jekyll
-#googleplus_username: +jekyll
-#orcid_username: 0000-0000-0000-0000
-
-# Additional icon links
-# additional_links:
-# - title: Link name
-#   icon: Font Awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-#   url: Link url (eg. https://google.com)
-# - title: another link
-#   icon: font awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-#   url: Link url (eg. https://google.com)
-
-# Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
+# twitter_username: facespics
+researchgate_username: Shayan_Shekarforoush
+github_username:  shekshaa
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+# instagram_username: chillwildlife
+googlescholar_username: ABanXIYAAAAJ
+linkedin_username: shayan-shekarforoush-597508136
+# pinterest_username: jekyll
+# youtube_username: globalmtb
+# googleplus_username: +jekyll
 
 # About Section
-# about_title: About Me (Use this to override about section title)
-about_profile_image: assets/papyon.jpeg
+# about_title: About Me
+about_profile_image: images/pf.jpg
 about_content: | # this will include new lines to allow paragraphs
   I am currently studying the final year of my bachelor’s degree in Computer Engineering at Sharif University of Technology, Iran.
-  My research interests include **Deep Learning** in particular, and **Machine Learning** in general, with applications in **Computer Vision**, **Graph Learning**, and **Economics**. 
+  My research interests include **Deep Learning** in particular, and **Machine Learning** in general, with applications in **Computer Vision** and **Graph Learning**. 
   I am intended to better understand these methods in a principled manner by investigating 
-  their practical implications in real life. 
-  Although the recently proposed techniques have demonstrated remarkable performance, 
-  significant challenges in terms of Explaining their results remain unresolved. 
-  My research goal is to channel such better **theoretical and functional** understandings of 
+  both their underlying mathematics and their practical implications in real life. 
+  Though the recent proposed techniques have demonstrated remarkable performance, 
+  major challenges in terms of understanding their underlying mathematical foundations remain unresolved. 
+  My research goal is to channel such better **theoretical and functional** understanding of 
   these new methods towards better **practical solutions** for real life problems.
-
+  
 # Projects Section
-projects_title: Projects #(Use this to override about projects section title)
+projects_title: Publications
 
 # Experience Section
-# experience_title: Experience #(Use this to override about experience section title)
+# experience_title: Experience
 
 # Education Section
-# education_title: Education #(Use this to override about education section title)
+# educaton_title: Education
 
 # More Section
-# more_title: A Little More About Me #(Use this to override about more section title)
+# more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
   Alongside my interests in Science and Technology, some of my other hobbies are:
-   - Contemporary Classical Music
-   - Mountain Climbing
-   - Off-roading
+   - Rock Music
+   - Ultimate Frisbee
+   - Basketball
+   - Playing Tennis
+
 # Footer
 footer_show_references: true
 
 # Build settings
-remote_theme: sfch1999/sfch1999.github.io
+remote_theme: shekshaa/shekshaa.github.io
 
 sass:
   sass_dir: _sass
@@ -80,16 +65,3 @@ sass:
 
 plugins:
  - jekyll-seo-tag
-
-exclude : [
-  "Gemfile",
-  "Gemfile.lock",
-  "node_modules",
-  "vendor/bundle/",
-  "vendor/cache/",
-  "vendor/gems/",
-  "vendor/ruby/",
-  "lib/",
-  "scripts/",
-  "docker-compose.yml",
-  ]
