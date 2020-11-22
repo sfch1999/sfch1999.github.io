@@ -15,10 +15,10 @@
     
     <span style="color:green"> Intelligent Systems for Molecular Biology / European Conference on Computational Biology (ISMB/ECCB 2019) </span>
     
-- name: GCN with Personalized Attention
-  image: images/miccai2019.png
+- name: Dementia
+  image: images/Dementia.png
   description: |
-    ## **Graph Convolution Based Attention Model for Personalized Disease Prediction**
+    ## **Classification of the Visual Biomarkers of Dementia Disease Based on Fazekas Scale**
     
     ---
     
