@@ -5,11 +5,11 @@
     
     ---
     
-    Current Graph Convolutional Networks mainly depend on the given geometric structure where the graph adjacency matrix represents pair-wise node similarities. Until now, 
-    the similarity metrics have been defined manually, which is not feasible nor accurate for many datasets. Furthermore, The main shortcoming 
-    of GCNs is their interpretability.
-    To this end, we proposed a novel, end-to-end trainable graph learning architecture for dynamic and localized graph pruning. Furthermore, 
-    this method generates an explanation for given features which can help us understand what is going on under the hood.
+    Current **Graph Convolutional Networks** mainly depend on the given geometric structure where the graph adjacency matrix represents pair-wise node similarities. Until now, 
+    the similarity metrics have been defined **manually**, which is not feasible nor accurate for many datasets. Furthermore, The main shortcoming 
+    of GCNs is the lack of information about how they generate a specific output.
+    To this end, we proposed a novel, end-to-end trainable **graph learning** architecture for dynamic and localized graph pruning. Furthermore, 
+    this method generates an **explanation** for given features which can help us understand what is going on under the hood.
     
     <span style="color:#900"> **Soroush Farghadani**, Anees Kazi, Seyed-Ahmad Ahmadi, and Nassir Navab</span>
     
