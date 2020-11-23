@@ -1,33 +1,16 @@
 - company: Technical University Munich
   jobs:
     - title: Research Intern
-      dates: July 2018 - September 2018
-    - title: Remote Collaboration
-      dates: September 2018 - May 2019
-    - title: Research Intern
-      dates: July 2019 - September 2019
+      dates: June 2020 - Present
   description: | # this will include new lines to allow paragraphs
-    In summer 2018, I joined Computer Aided Medical Procedures ([CAMP](http://campar.in.tum.de)), as an intern 
-    under the supervision of [Prof. Dr. Nassir Navab](http://campar.in.tum.de/Main/NassirNavab), at Technical University of Munich (TUM).
-    I started to study the recently emerging topic of Geometric Deep Learning. My first major involvement involvement with the team was 
-    on a research project aiming to address the problem of semi-supervised disease prediction in a multi-modal setting, when the 
-    dataset comprises of both imaging and non-imaging data. This work was published in the proceedings of the 
-    **IEEE International Symposium on Biomedical Imaging (ISBI 2019)**, and was presented as an **oral contribution**.
-  
-    In another research project, I investigated how changing the receptive field size in GCN alters its overall performance.
-    Accordingly, we designed a novel method called InceptionGCN utilizing inception modules, where each module has a different kernel size.
-    The result of this study is now published and accepted for **oral presentation (with 7% acceptance rate)** in the conference of **Information 
-    Processing in Medical Imaging (IPMI 2019)**.
-    
-    As continuation of my work on the first paper, I committed to a remote collaboration with CAMP on another project in which 
-    our team incorporated a Long Short-Term Memory (LSTM) based attention mechanism into GCN to make patient-specific 
-    disease predictions. This work also resulted in a paper published in the International Conference on **Medical Image Computing 
-    and Computer Assisted Intervention (MICCAI 2019)**.
-    
-    In summer 2019, I rejoined CAMP, but this time I took the initiative and identified the problem of automatically learning the 
-    receptive field size in GCNs as an open problem. I proposed a new model capable of **adaptively learning the receptive field size 
-    in an end-to-end manner**. Later, I realized that my model has direct applications to 3D shape analysis tasks such as 
-    mesh regression and shape correspondence.
+    In June 2020, I joined Computer Aided Medical Procedures ([CAMP](http://campar.in.tum.de)), as an intern 
+    under the supervision of [Prof. Dr. Nassir Navab](http://campar.in.tum.de/Main/NassirNavab), at Technical University of Munich (TUM). 
+    At first, I started to study the recently emerging topic of Geometric Deep Learning. Since I was fascinated by Graph Neural Networks, 
+    I managed to master it in a short period of time. In the meantime, we studied the state-of-the-art methods in interpretability. Furthermore, 
+    in order to investigate the GNN's functionality, I implemented several pre-existed methods and tried to understand what exactly they are doing 
+    when they are used on health-related datasets. After a while, I took the initiative and proposed a new model capable of **explaining GNNs**. 
+    Next in row, we started to experiment my proposal on medical datasets which allowed us to evaluate the explanations. Right now, we are preparing 
+    a manuscript to publish the results on **MICCAI2021**.
     
 - company: European Molecular Biology Laboratory
   job_title: Remote Collaboration
