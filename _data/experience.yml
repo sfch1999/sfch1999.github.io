@@ -5,11 +5,11 @@
   description: | # this will include new lines to allow paragraphs
     In June 2020, I joined Computer Aided Medical Procedures ([CAMP](http://campar.in.tum.de)), as an intern 
     under the supervision of [Prof. Dr. Nassir Navab](http://campar.in.tum.de/Main/NassirNavab), at Technical University of Munich (TUM). 
-    At first, I started to study the recently emerging topic of Geometric Deep Learning. Since I was fascinated by Graph Neural Networks, 
-    I managed to master it in a short period of time. In the meantime, we studied the state-of-the-art methods in interpretability. Furthermore, 
-    in order to investigate the GNN's functionality, I implemented several pre-existed methods and tried to understand what exactly they are doing 
-    when they are used on health-related datasets. After a while, I took the initiative and proposed a new model capable of **explaining GNNs**. 
-    Next in row, we started to experiment my proposal on medical datasets which allowed us to evaluate the explanations. Right now, we are preparing 
+    At first, I started to study the recently emerging topic of **Geometric Deep Learning**. Since I was fascinated by Graph Neural Networks, 
+    I managed to master it in a short period of time. In the meantime, we studied the state-of-the-art methods in **interpretability**. Furthermore, 
+    in order to investigate the GNN's functionality, I implemented several pre-existed methods and tried to understand how exactly they are producing 
+    results when health-related datasets are used. After a while, I took the initiative and proposed a new model capable of **explaining GNNs**. 
+    Subsequently, we started to experiment my proposal on medical datasets which allowed us to evaluate the explanations. Right now, we are preparing 
     a manuscript to publish the results on **MICCAI2021**.
     
 - company: European Molecular Biology Laboratory
