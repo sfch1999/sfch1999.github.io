@@ -26,14 +26,14 @@
 
 - company: DataDays
   job_title: Scientific Staff
-  dates: December 2018 - March 2019
+  dates: September 2019 - December 2019
   description: |
     [DataDays](http://datadays.sharif.edu/) was the **First National Data Scientific Competition** held 
     by Sharif University of Technology.
     Its main goal was to broaden appeal for working on problems related to data. 
     Moreover, it is a large-scale attempt to assess the level of knowledge in this field in Iran.
     
-    As a volunteer, I joined the Scientific Staff and help them to propose questions which could be solved by Machine Learning and Deep Learning methods.
+    As a volunteer, I joined the Assessment Staff and led a group of three people. We proposed questions which could be solved by Machine Learning and Deep Learning methods.
     In addition, we developed some [Perisan Jupyter Notebooks](https://github.com/datadays-content/datadays-content.github.io) as tutorials mostly related 
     to Data Analysis and Machine Learning. We made it accessible to all the teams in order to encourage them to raise their skill and knowledge in these fields. 
     
@@ -41,13 +41,13 @@
     This dataset mainly comprises online advertisements published by people in different categories.
   
 - company: Yektanet
-  job_title: Data Scientist
-  dates: July 2017 - September 2017
+  job_title: Data Science Intern
+  dates: July 2019 - October 2019
   description: |
-    During summer of 2017, I worked for a start-up called [Yektanet](https://www.yektanet.com/), an online advertisement platform in my country. 
+    During summer of 2019, I worked for a start-up called [Yektanet](https://www.yektanet.com/), an online advertisement platform in my country. 
     This platform is basically publishing advertisements on well-known publishers for achieving clicks and views. 
-    I was employed as data scientist and developed algorithms **determining the subject of web pages using their textual data**. 
-    They are now deployed for displaying relevant items of advertisement on each webpage.
+    I was employed as data science intern and developed algorithms to help advertisers **target new customers who are likely to be interested in their business **
+    using existing and innovative machine learning methods. 
 
 - company: Sharif Univeristy of Technology
   job_title: Teaching Assistant
