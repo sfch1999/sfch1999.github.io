@@ -16,11 +16,13 @@
   job_title: Research Assistant
   dates: June 2019 - Present
   description: | # this will include new lines to allow paragraphs
-    In 2019, I joined Medical Image Analysis group in Data science & Machine learning Lab (DML) as a research assistant. My first major involvement 
-    with the team was on a research project aiming to classify X-Ray radiographs into two groups of Normal and Abnormal. Regardless of the 
+    In 2019, I joined Medical Image Analysis group in Data science & Machine learning Lab (DML) as a research assistant under the supervision of 
+    [Prof. Rabiee(https://scholar.google.com/citations?hl=en&user=rKDtrNgAAAAJ&view_op=list_works&sortby=pubdate)] and 
+    [Dr. Rohban(https://scholar.google.com/citations?hl=en&user=pRyJ6FkAAAAJ&view_op=list_works&sortby=pubdate)].
+    My first major involvement with the team was on a research project aiming to classify X-Ray radiographs into two groups of Normal and Abnormal. Regardless of the 
     undeniable value of this research, my most noteworthy research experience in Medical Image Analysis group 
     has been a project on Dimentia Desease. In this project, I proposed a novel segmentation method which helped us to outperform the state-of-the-art 
-    models.  Right now, we are preparing a manuscript to publish the results on **[Medical Image Analysis - Elsevier](https://www.journals.elsevier.com/medical-image-analysis)**.
+    models.  Right now, we are preparing a manuscript to publish the results on [Medical Image Analysis - Elsevier](https://www.journals.elsevier.com/medical-image-analysis).
 
 - company: DataDays
   job_title: Scientific Staff
