@@ -55,7 +55,7 @@
     In june 2018, I joined a start-up called [Pido](https://pidonet.com/en/home/), One of the largest Fuel Delivery companies in the Middle East. 
     I mainly worked on a projects which was a collaboration between Pido and [PEC](https://en.pec.ir), a Payment Service Provider in Iran. In this 
     project we developed a method to scan Persian and English debit cards and extract the necessary information. An API based on our method is now 
-    deployed in both companies' applications. In this project, I proposed a novel method which is capable of removing the background of digits  
+    deployed in both companies' applications. In this project, I proposed a novel method which is capable of removing the background of digits 
     for better Optical Character Recognition performance.
 
 
