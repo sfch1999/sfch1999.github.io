@@ -1,6 +1,5 @@
 - company: Technical University Munich
-  jobs:
-  title: Research Intern
+  job_title: Remote Research Assistant
   dates: June 2020 - Present
   description: | # this will include new lines to allow paragraphs
     In June 2020, I joined Computer Aided Medical Procedures ([CAMP](http://campar.in.tum.de)), as an intern 
