@@ -1,7 +1,7 @@
 - company: Technical University Munich
   jobs:
-    - title: Research Intern
-      dates: June 2020 - Present
+  title: Research Intern
+  dates: June 2020 - Present
   description: | # this will include new lines to allow paragraphs
     In June 2020, I joined Computer Aided Medical Procedures ([CAMP](http://campar.in.tum.de)), as an intern 
     under the supervision of [Prof. Dr. Nassir Navab](http://campar.in.tum.de/Main/NassirNavab), at Technical University of Munich (TUM). 
@@ -49,7 +49,7 @@
     I was employed as data science intern and developed algorithms to help advertisers **target new customers who are likely to be interested in their business** 
     using existing and innovative machine learning methods. 
 
-  - company: Pido
+- company: Pido
   job_title: Computer Vision Engineer
   dates: June 2018 - June 2019
   description: |
