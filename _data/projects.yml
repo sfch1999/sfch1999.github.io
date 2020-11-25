@@ -25,9 +25,9 @@
     Among the Dementia biomarkers, ”Periventricular White Matter Changes(PVWM)” has been of the most importance.
     Towards this, we introduce a model which can classify patients based on PVWM into four groups. 
     In order to achieve this, we take advantage of **Multiple Instance Learning** and **Self-Supervised Learning**. However, one of 
-    the main novelties of our model is the **preproccessing** stage which we've invented. This technique allows us to segment the White Matter Lisions 
+    the main novelties of our model is the **preprocessing** stage which we've invented. This technique allows us to segment the White Matter Lesions
     in order to achieve higher accuracy. 
-    The other advantage of our proposed method is that our model is based on **thick slice MRI** which is the main setting used to attain MRI scans in Imaging Centers.
+    The other advantage of our proposed method is that our model is based on **thick slice MRI**, which is the main setting used to attain MRI scans in Imaging Centers.
     
     <span style="color:#900"> Reza Shirkavand, **Soroush Farghadani**, Sana Ayromlou, Mohammad Hossein Rohban, Hamid Reza Rabiee</span>
     

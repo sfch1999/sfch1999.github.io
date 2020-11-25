@@ -15,12 +15,12 @@
   job_title: Research Assistant
   dates: June 2019 - Present
   description: | # this will include new lines to allow paragraphs
-    In 2019, I joined **Medical Image Analysis** group in Data science & Machine learning Lab (DML) as a **research assistant** under the supervision of 
+    In 2019, I joined the **Medical Image Analysis** group in Data Science & Machine Learning Lab (DML) as a **research assistant** under the supervision of 
     [Prof. Rabiee](https://scholar.google.com/citations?hl=en&user=rKDtrNgAAAAJ&view_op=list_works&sortby=pubdate) and 
-    [Dr. Rohban](https://scholar.google.com/citations?hl=en&user=pRyJ6FkAAAAJ&view_op=list_works&sortby=pubdate).
+    [Prof. Rohban](https://scholar.google.com/citations?hl=en&user=pRyJ6FkAAAAJ&view_op=list_works&sortby=pubdate).
     My first major involvement with the team was on a research project aiming to classify **X-Ray** images into two groups of Normal and Abnormal. Regardless of the 
     undeniable value of this research, my most noteworthy research experience in Medical Image Analysis group 
-    has been a project on **Dimentia Desease**. In this project, I proposed a novel segmentation method which helped us to outperform the state-of-the-art 
+    has been a project on **Dementia Disease**. In this project, I proposed a novel segmentation method which helped us to outperform the state-of-the-art 
     models.  Right now, we are preparing a manuscript to publish the results on [Medical Image Analysis - Elsevier](https://www.journals.elsevier.com/medical-image-analysis).
 
 - company: DataDays
@@ -28,15 +28,15 @@
   dates: September 2019 - December 2019
   description: |
     [DataDays](http://datadays.sharif.edu/) was the **First National Data Scientific Competition** held 
-    by Sharif University of Technology.
-    Its main goal was to broaden appeal for working on problems related to data. 
+    by the Sharif University of Technology.
+    Its main goal was to broaden the appeal for working on problems related to data. 
     Moreover, it is a large-scale attempt to assess the level of knowledge in this field in Iran.
     
     As a volunteer, I joined the Assessment Staff and led a group of four people. We proposed questions which could be solved by Machine Learning and Deep Learning methods.
     In addition, we developed some [Perisan Jupyter Notebooks](https://github.com/datadays-content/datadays-content.github.io) as tutorials mostly related 
     to Data Analysis and Machine Learning. We made it accessible to all the teams in order to encourage them to raise their skill and knowledge in these fields. 
     
-    The whole competition was centered around working on a dataset collected by [Cafebazaar](https://cafebazaar.ir/) from [Divar](http://divar.ir).
+    The whole competition was centred around working on a dataset collected by [Cafebazaar](https://cafebazaar.ir/) from [Divar](http://divar.ir).
     This dataset mainly comprises online advertisements published by people in different categories.
   
 - company: Yektanet
@@ -45,16 +45,16 @@
   description: |
     During summer of 2019, I worked for a start-up called [Yektanet](https://www.en.yektanet.com/), an online advertisement platform in my country. 
     This platform is basically publishing advertisements on well-known publishers for achieving clicks and views. 
-    I was employed as data science intern and developed algorithms to help advertisers **target new customers who are likely to be interested in their business** 
+    I was employed as a data science intern and developed algorithms to help advertisers **target new customers who are likely to be interested in their business** 
     using existing and innovative machine learning methods. 
 
 - company: Pido
   job_title: Computer Vision Engineer
   dates: June 2018 - June 2019
   description: |
-    In june 2018, I joined a start-up called [Pido](https://pidonet.com/en/home/), One of the largest Fuel Delivery companies in the Middle East. 
-    I mainly worked on a projects which was a collaboration between Pido and [PEC](https://en.pec.ir), a Payment Service Provider in Iran. In this 
-    project we developed a method to scan Persian and English debit cards and extract the necessary information. An API based on our method is now 
+    In June 2018, I joined a start-up called [Pido](https://pidonet.com/en/home/), One of the largest Fuel Delivery companies in the Middle East. 
+    I mainly worked on a project which was a collaboration between Pido and [PEC](https://en.pec.ir), a Payment Service Provider in Iran. In this 
+    project, we developed a method to scan Persian and English debit cards and extract the necessary information. An API based on our method is now 
     deployed in both companies' applications. In this project, I proposed a novel method which is capable of removing the background of digits 
     for better Optical Character Recognition performance.
 
