@@ -15,7 +15,7 @@
     
     
 - name: Dementia
-  image: images/Dementia.jpg
+  image: images/network.png
   description: |
     ## **Classification of the Visual Biomarkers of Dementia Disease Based on Fazekas Scale**
     
