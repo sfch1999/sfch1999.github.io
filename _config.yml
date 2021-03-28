@@ -11,6 +11,9 @@ email: sor.fargh@gmail.com
 # Social links
 # twitter_username: facespics
 github_username:  sfch1999
+
+googlescholar_username: Gv9ET40AAAAJ
+
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
@@ -29,9 +32,6 @@ about_content: | # this will include new lines to allow paragraphs
   In March 2020, I received a prestigious research award from the **Chair for Computer Aided Medical Procedures (CAMP)**, Technical University of Munich (TUM), Germany.
   This award gave me the opportunity to work with **Prof. Navab**, one of the most prominent professors in Biomedical and Medical Informatics, on the newly emerged challenging topic of Geometric Deep Learning.
   My research interests include **Computer Vision**, **Deep Learning**, and **Interpretable ML**. 
-  That being said, my intention is to better understand these methods in a principled manner by investigating 
-  their **practical implications** in real life. 
-
 # Projects Section
 projects_title: Publications
 
