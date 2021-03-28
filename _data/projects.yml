@@ -25,8 +25,8 @@
     **Fazekas scale** facilitates an accurate quantitative assessment of the severity of white matter lesions and hence the disease. Imaging Biomarkers of dementia are multiple and comprehensive documentation of them is time-consuming. Therefore, any effort to automatically extract these biomarkers will be of clinical value while reducing inter-rater discrepancies.
     To tackle this problem, we propose to classify the disease severity based on the Fazekas scale through the visual biomarkers, namely the **Periventricular White Matter (PVWM)** and the **Deep White Matter (DWM)** changes, in the real-world setting of **thick-slice MRI**. 
     Small training sample size and weak supervision in form of assigning severity labels to the whole MRI stack are among the main challenges. 
-    To combat the mentioned issues, we have developed a deep learning pipeline that employs self-supervised representation learning, multiple instance learning, and appropriate pre-processing steps. 
-   
+    To combat the mentioned issues, we have developed a deep learning pipeline that employs **self-supervised** representation learning, **multiple instance learning**, and appropriate **pre-processing** steps. 
+
     <span style="color:#900"> **Soroush Farghadani**, Reza Shirkavand, Sana Ayromlou, Maedeh-sadat Tahaei, Fattane Pourakpour, Bahareh Siahlou, Zeynab Khodakarami, Mohammad H. Rohban, Mansoor Fatehi, Hamid R. Rabiee</span>
     
     
