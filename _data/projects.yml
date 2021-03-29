@@ -1,23 +1,22 @@
-- name: DGM
-  image: images/DGM.png
+- name: IA-GCN
+  image: images/MIDL_interpretabilityGCN2.png
   description: |
-    ## **Explainable Latent-Graph Learning for Disease Prediction**
+    ## **IA-GCN: Interpretable Attention based Graph Convolutional Network for Disease prediction**
     
     ---
     
-    Current **Graph Convolutional Networks** mainly depend on the given geometric structure where the graph adjacency matrix represents pair-wise node similarities. Until now, 
-    the similarity metrics have been defined **manually**, which is not feasible nor accurate for many datasets. Furthermore, The main shortcoming 
-    of GCNs is the lack of information about how they generate a specific output.
-    To this end, we proposed a novel, end-to-end trainable **graph learning** architecture for dynamic and localized graph pruning. Furthermore, 
-    this method generates an **explanation** for given features which can help us understand what is going on under the hood.
-    
-    <span style="color:#900"> **Soroush Farghadani**, Anees Kazi, Seyed-Ahmad Ahmadi, and Nassir Navab</span>
+    **Interpretability** in **Graph Convolutional Networks (GCNs)** has been explored to some extent in computer vision in general, yet, in the medical domain, it requires further examinations. 
+    Moreover, most of the interpretability approaches for GCNs, especially in the **medical domain**, focus on interpreting the model in a post hoc fashion. 
+    In this paper, we propose an interpretable graph learning based model which 1) interprets the **clinical relevance** of the input features towards the task, 2) uses the explanation to improve the model **performance** and, 3) learns a population level **latent graph** that may be used to interpret the cohort’s behavior. 
+    In a clinical scenario such a model can assist the clinical experts for better decision-making for diagnosis and treatment planning. 
+
+    <span style="color:#900"> **Soroush Farghadani**, Anees Kazi, and Nassir Navab</span>
     
     
 - name: Dementia
   image: images/network.png
   description: |
-    ## **Classification of the Visual Biomarkers of Dementia Disease Based on Fazekas Scale**
+    ## **Dementia Severity Classification under Small Sample Size and Weak Supervision in Thick Slice MRI**
     
     ---
     
