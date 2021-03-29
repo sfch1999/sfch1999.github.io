@@ -6,7 +6,7 @@
 name: Soroush Farghadani
 #title: lecture notes
 email: sor.fargh@gmail.com
-website: sfch1999.github.io<a href="http://ce.sharif.edu/">Computer Engineering Department</a>
+website: sfch1999.github.io
 
 # Social links
 # twitter_username: facespics
@@ -31,6 +31,8 @@ about_content: | # this will include new lines to allow paragraphs
   In March 2020, I received a prestigious research award from the **Chair for Computer Aided Medical Procedures (CAMP)**, Technical University of Munich (TUM).
   This award gave me the opportunity to work with **Prof. Navab**, one of the most prominent professors in Biomedical and Medical Informatics, on the newly emerged challenging topic of Geometric Deep Learning.
   My research interests include **Computer Vision**, **Geometric Deep Learning**, and **Machine Learning**. 
+
+  asdfds [lecture notes](http://ce.sharif.edu/courses/99-00/1/ce425-1/index.php/section/resources/file/resources)
 # Projects Section
 projects_title: Publications
 
