@@ -1,3 +1,14 @@
+- name: University of Toronto
+  dates: 2021 - Present
+  qualification: Master of Science in Applied Computing - Concentration: Data Science
+  description: | # this will include new lines to allow paragraphs
+    **Related Courses:**
+
+    Neural Networks and Deep learning
+    Data Science Methods
+    Statistical Machine Learning
+
+
 - name: Sharif Univeristy of Technology
   dates: 2017 - Present
   qualification: BSc Computer Engineering
@@ -5,8 +16,8 @@
     Studying Computer Engineering at [Computer Engineering Department](http://ce.sharif.edu/).
 
     **Related Courses:**
-    
-    Machine Learning (graduate, audited), 
+
+    Machine Learning (graduate, audited),
     Artificial Intelligence,
     Linear Algebra,
     Signals & Systems,
@@ -15,9 +26,3 @@
     Data Structures and Algorithms,
     Discrete Structures,
     Convolutional Neural Networks (online, audited)
-- name: Shahid Ejei Highschool
-  dates: 2013-2017
-  qualification: Diploma
-  description: |
-    I received my Diploma in Mathematics and Physics from this highschool 
-    affiliated with the National Organization for the Development of Exceptional Talents ([NODET](http://nodet.net/)).
