@@ -1,60 +1,72 @@
+- company: Joseph L. Rotman School of Management, University of Toronto
+  job_title: Machine Learning Researcher
+  dates: Sept 2021 - May 2022
+  description: | # this will include new lines to allow paragraphs
+    In September 2021, I joined [Finhub](https://www.rotman.utoronto.ca/FacultyAndResearch/ResearchCentres/FinHub) as a Machine Learning Researcher under the supervision of **[Prof. John Hull](https://en.wikipedia.org/wiki/John_C._Hull_(economist))**.
+    My major involvement was on a project studying the use of **Deep Reinforcement Learning** on **Hedging** strategies. At first I had to design several portfolio environments that could manage different options.
+    After that, I conducted a literature review on Deep Reinforcement Learning algorithms in order to find out which one can be used for our purpose. I found out that **Distributional DRL** can be a great help as
+    we can design and support different financial/statistical **objective funtions**. I tried two different methods and optimized one of them for the project. At last, by fine-tuning the proposed model, we could
+    outperform other existing methods which are used on a daily basis by companies. Three objective functions were designed for different purposes that can be used based on the trader's hedging preference. During
+    this project, I had the honor to work with Prof. Hull, who is considered to be the godfather of Derivatives. This led me to gain a lot of financial and DRL experience while generating great results. The paper is
+    submitted to a conference and we are preparing a Jurnal version as well.
+
 - company: Technical University Munich
   job_title: Remote Research Assistant
   dates: June 2020 - Present
   description: | # this will include new lines to allow paragraphs
-    In June 2020, I joined Computer Aided Medical Procedures ([CAMP](http://campar.in.tum.de)), as an intern 
-    under the supervision of [Prof. Dr. Nassir Navab](http://campar.in.tum.de/Main/NassirNavab), at Technical University of Munich (TUM). 
-    At first, I started to study the recently emerging topic of **Geometric Deep Learning**. Since I was fascinated by Graph Neural Networks, 
-    I managed to conduct a literature review in a short period of time. In the meantime, we studied the state-of-the-art methods in **interpretability**. Furthermore, 
-    in order to investigate the GNN's functionality, I implemented several pre-existed methods and tried to understand how exactly they are producing 
-    results when health-related datasets are used. After a while, I took the initiative and proposed a new model capable of **interpreting** in an end-to-end training fashion. 
+    In June 2020, I joined Computer Aided Medical Procedures ([CAMP](http://campar.in.tum.de)), as an intern
+    under the supervision of [Prof. Dr. Nassir Navab](http://campar.in.tum.de/Main/NassirNavab), at Technical University of Munich (TUM).
+    At first, I started to study the recently emerging topic of **Geometric Deep Learning**. Since I was fascinated by Graph Neural Networks,
+    I managed to conduct a literature review in a short period of time. In the meantime, we studied the state-of-the-art methods in **interpretability**. Furthermore,
+    in order to investigate the GNN's functionality, I implemented several pre-existed methods and tried to understand how exactly they are producing
+    results when health-related datasets are used. After a while, I took the initiative and proposed a new model capable of **interpreting** in an end-to-end training fashion.
     This paper is submitted to **MICCAI 2021**.
-  
+
 - company: Sharif University of Technology
   job_title: Research Assistant
   dates: June 2019 - Present
   description: | # this will include new lines to allow paragraphs
-    In 2019, I joined the **Medical Image Analysis** group in Data Science & Machine Learning Lab (DML) as a **research assistant** under the supervision of 
-    [Prof. Rabiee](https://scholar.google.com/citations?hl=en&user=rKDtrNgAAAAJ&view_op=list_works&sortby=pubdate) and 
+    In 2019, I joined the **Medical Image Analysis** group in Data Science & Machine Learning Lab (DML) as a **research assistant** under the supervision of
+    [Prof. Rabiee](https://scholar.google.com/citations?hl=en&user=rKDtrNgAAAAJ&view_op=list_works&sortby=pubdate) and
     [Prof. Rohban](https://scholar.google.com/citations?hl=en&user=pRyJ6FkAAAAJ&view_op=list_works&sortby=pubdate).
-    My first major involvement with the team was on a research project aiming to classify **X-Ray** images into two groups of Normal and Abnormal. Regardless of the 
-    undeniable value of this research, my most noteworthy research experience in Medical Image Analysis group 
-    has been a project on **Dementia Disease**. In this project, I proposed a novel segmentation method which helped us to outperform the state-of-the-art 
+    My first major involvement with the team was on a research project aiming to classify **X-Ray** images into two groups of Normal and Abnormal. Regardless of the
+    undeniable value of this research, my most noteworthy research experience in Medical Image Analysis group
+    has been a project on **Dementia Disease**. In this project, I proposed a novel segmentation method which helped us to outperform the state-of-the-art
     models.  The manuscipt is submitted to **MICCAI 2021**.
 
 - company: DataDays
   job_title: Scientific Staff
   dates: September 2019 - December 2019
   description: |
-    [DataDays](http://datadays.sharif.edu/) was the **First National Data Scientific Competition** held 
+    [DataDays](http://datadays.sharif.edu/) was the **First National Data Scientific Competition** held
     by the Sharif University of Technology.
-    Its main goal was to broaden the appeal for working on problems related to data. 
+    Its main goal was to broaden the appeal for working on problems related to data.
     Moreover, it is a large-scale attempt to assess the level of knowledge in this field in Iran.
-    
+
     As a volunteer, I joined the Assessment Staff and led a group of four people. We proposed questions which could be solved by Machine Learning and Deep Learning methods.
-    In addition, we developed some [Perisan Jupyter Notebooks](https://github.com/datadays-content/datadays-content.github.io) as tutorials mostly related 
-    to Data Analysis and Machine Learning. We made it accessible to all the teams in order to encourage them to raise their skill and knowledge in these fields. 
-    
+    In addition, we developed some [Perisan Jupyter Notebooks](https://github.com/datadays-content/datadays-content.github.io) as tutorials mostly related
+    to Data Analysis and Machine Learning. We made it accessible to all the teams in order to encourage them to raise their skill and knowledge in these fields.
+
     The whole competition was centred around working on a dataset collected by [Cafebazaar](https://cafebazaar.ir/) from [Divar](http://divar.ir).
     This dataset mainly comprises online advertisements published by people in different categories.
-  
+
 - company: Yektanet
   job_title: Data Science Intern
   dates: July 2019 - October 2019
   description: |
-    During summer of 2019, I worked for a start-up called [Yektanet](https://www.en.yektanet.com/), an online advertisement platform in my country. 
-    This platform is basically publishing advertisements on well-known publishers for achieving clicks and views. 
-    I was employed as a data science intern and developed algorithms to help advertisers **target new customers who are likely to be interested in their business** 
-    using existing and innovative machine learning methods. 
+    During summer of 2019, I worked for a start-up called [Yektanet](https://www.en.yektanet.com/), an online advertisement platform in my country.
+    This platform is basically publishing advertisements on well-known publishers for achieving clicks and views.
+    I was employed as a data science intern and developed algorithms to help advertisers **target new customers who are likely to be interested in their business**
+    using existing and innovative machine learning methods.
 
 - company: Pido
   job_title: Computer Vision Engineer
   dates: June 2018 - June 2019
   description: |
-    In June 2018, I joined a start-up called [Pido](https://pidonet.com/en/home/), One of the largest Fuel Delivery companies in the Middle East. 
-    I mainly worked on a project which was a collaboration between Pido and [PEC](https://en.pec.ir), a Payment Service Provider in Iran. In this 
-    project, we developed a method to scan Persian and English debit cards and extract the necessary information. An API based on our method is now 
-    deployed in both companies' applications. In this project, I proposed a novel method which is capable of removing the background of digits 
+    In June 2018, I joined a start-up called [Pido](https://pidonet.com/en/home/), One of the largest Fuel Delivery companies in the Middle East.
+    I mainly worked on a project which was a collaboration between Pido and [PEC](https://en.pec.ir), a Payment Service Provider in Iran. In this
+    project, we developed a method to scan Persian and English debit cards and extract the necessary information. An API based on our method is now
+    deployed in both companies' applications. In this project, I proposed a novel method which is capable of removing the background of digits
     for better Optical Character Recognition performance.
 
 
@@ -62,18 +74,17 @@
   job_title: Teaching Assistant
   description: |
     Some of my teaching experiences as assistant:
-    
+
     **Fall 2020:**
-    + Linear Algebra - Prof. Rabiee (Lead TA): 
-        [Leading a team of 42 TAs] 
+    + Linear Algebra - Prof. Rabiee (Lead TA):
+        [Leading a team of 42 TAs]
         [Preparing [lecture notes](http://ce.sharif.edu/courses/99-00/1/ce425-1/index.php/section/resources/file/resources)]
     + Design Algorithms - Dr. Zarrabi-Zadeh
-      
+
     **Spring 2020:**
     + Artificial Intelligence - Dr. Rohban
     + Discrete Structures - Dr. Zarrabi-Zadeh
-    
+
     **Fall 2019:**
     + Probability and Statistics - Dr. Sharifi
     + Linear Algebra - Prof. Motahari
-    
