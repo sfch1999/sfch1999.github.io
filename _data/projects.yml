@@ -1,5 +1,5 @@
 - name: Deep Hedging
-  image: images/deeph.png
+  image: images/hed.png
   description: |
     ## **Gamma and Vega Hedging Using Deep Distributional Reinforcement Learning**
 
