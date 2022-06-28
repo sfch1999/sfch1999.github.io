@@ -4,7 +4,7 @@
   description: | # this will include new lines to allow paragraphs
     With the evolution of unmanned aerial vehicles (UAVs) in recent years, more and more researchers are setting their sights on the application research of indoor environment. Indoor applications include industrial facility inspection,
     warehouse inventory management, health sector, search and rescue, among others. However, the use of UAVs in these applications requires continuous high-accuracy positioning and pose information, and the consequent efficient obstacle
-    avoidance algorithm. To address the above problem, I joined [Soti - Advanced Aerospace Research](https://soti.net/products/soti-aerospace/) In May 2022 as a Research And Development Intern under the supervision of **[Igor Gilitschenski](https://www.gilitschenski.org/igor/)**.
+    avoidance algorithm. To address the above problem, I joined **[Soti - Advanced Aerospace Research](https://soti.net/products/soti-aerospace/)** In May 2022 as a Research And Development Intern under the supervision of **[Igor Gilitschenski](https://www.gilitschenski.org/igor/)**.
     Currently, We are designing an algorithm which can (1) perceive the surrounding environment, (2) control attitude and position of UAVs, (3) navigate UAV through obstacles, (4) account for the
     changes in the dynamic environment and remain stable.
 
