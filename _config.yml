@@ -31,7 +31,8 @@ about_content: | # this will include new lines to allow paragraphs
 
 
   I am a Masters student majoring in Computer Science at **University of Toronto**. Currently, I am working as a Research And Development Intern at SOTI - Advanced Aerospace Research.
-  My interest is mainly the practical aspects of Artificial Intelligence and Machine Learning. For more details, see my [CV](https://sfch1999.github.io/files/CV.pdf).
+   My research focuses on studying and designing provably efficient machine learning algorithms. The topics that I have worked on include Reinforcement Learning, Convolutional Neural Networks and Geometric Deep Learning.
+    For more details, see my [CV](https://sfch1999.github.io/files/CV.pdf).
 # Projects Section
 projects_title: Publications
 
